@@ -55,4 +55,4 @@ Ingeniera de Sistemas, especializada en desarrollo web Back End.
 Con experiencia en Java, C#, C++, JavaScript, Node.js, Spring y ASP.NET Core.  
 Amante de los gatos, los videojuegos y la literatura clásica.  
 LinkedIn: https://www.linkedin.com/in/genesysrondon914762182/  
-GitHub: https://github.com/genesysrm
+GitHub: https://github.com/genesysR-dev
